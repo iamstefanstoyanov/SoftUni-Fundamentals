@@ -15,3 +15,15 @@ function fancyBarcodes(input) {
         }
     })
 }
+fancyBarcodes(["3",
+"@#FreshFisH@#",
+"@###Brea0D@###",
+"@##Che4s6E@##"])
+
+fancyBarcodes(["6",
+"@###Val1d1teM@###",
+"@#ValidIteM@#",
+"##InvaliDiteM##",
+"@InvalidIteM@",
+"@#Invalid_IteM@#",
+"@#ValiditeM@#"])

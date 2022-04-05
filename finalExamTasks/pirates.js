@@ -58,6 +58,7 @@ pirates((["Tortuga||345000||1250",
     "Prosper=>Santo Domingo=>180",
     "End"
 ]))
+console.log('----------------')
 pirates((["Nassau||95000||1000",
     "San Juan||930000||1250",
     "Campeche||270000||690",
